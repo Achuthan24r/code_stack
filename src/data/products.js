@@ -1,0 +1,80 @@
+export const products = [
+  {
+    id: 1,
+    name: "Pearl Bow Phone Case",
+    category: "Phone Accessories",
+    price: 599,
+    rating: 4.8,
+    image: "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=80",
+    description: "Elegant pearl-style phone case with a cute bow design.",
+    customizable: true,
+    colors: ["White", "Pink", "Black"],
+    materials: ["Pearl", "Soft Silicone"],
+    decorations: ["Bow", "Pearls", "Mini Heart"]
+  },
+  {
+    id: 2,
+    name: "Minimal Leather Wallet",
+    category: "Wallets",
+    price: 799,
+    rating: 4.7,
+    image: "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80",
+    description: "Simple and elegant wallet suitable for everyday use.",
+    customizable: true,
+    colors: ["Black", "Brown", "Beige"],
+    materials: ["Leather", "Faux Leather"],
+    decorations: ["Initials", "Small Logo"]
+  },
+  {
+    id: 3,
+    name: "Classic Analog Watch",
+    category: "Watches",
+    price: 1499,
+    rating: 4.9,
+    image: "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80",
+    description: "Classic analog watch with a stylish and timeless appearance.",
+    customizable: true,
+    colors: ["Gold", "Silver", "Black"],
+    materials: ["Stainless Steel", "Leather"],
+    decorations: ["Initials", "Charm"]
+  },
+  {
+    id: 4,
+    name: "Elegant Pearl Necklace",
+    category: "Jewellery",
+    price: 999,
+    rating: 4.8,
+    image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+    description: "Beautiful pearl necklace designed for an elegant look.",
+    customizable: true,
+    colors: ["White", "Cream", "Pink"],
+    materials: ["Pearl", "Gold Plated"],
+    decorations: ["Heart", "Star", "Initial"]
+  },
+  {
+    id: 5,
+    name: "Cute Mini Shoulder Bag",
+    category: "Bags",
+    price: 1299,
+    rating: 4.7,
+    image: "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+    description: "Cute mini shoulder bag with a stylish everyday design.",
+    customizable: true,
+    colors: ["White", "Pink", "Brown", "Black"],
+    materials: ["Faux Leather", "Canvas"],
+    decorations: ["Bow", "Pearl", "Charm"]
+  },
+  {
+    id: 6,
+    name: "Cute Hair Accessories Set",
+    category: "Hair Accessories",
+    price: 399,
+    rating: 4.6,
+    image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=80",
+    description: "Cute collection of hair accessories for everyday styling.",
+    customizable: true,
+    colors: ["Pink", "White", "Brown"],
+    materials: ["Acrylic", "Fabric"],
+    decorations: ["Bow", "Pearls", "Flower"]
+  }
+];
